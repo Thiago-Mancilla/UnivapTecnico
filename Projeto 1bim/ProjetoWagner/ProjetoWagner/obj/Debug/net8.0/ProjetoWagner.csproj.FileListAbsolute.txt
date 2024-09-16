@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\bin\Debug\net8.0\ProjetoWagner.exe
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\bin\Debug\net8.0\ProjetoWagner.deps.json
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\bin\Debug\net8.0\ProjetoWagner.runtimeconfig.json
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\bin\Debug\net8.0\ProjetoWagner.dll
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\bin\Debug\net8.0\ProjetoWagner.pdb
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\obj\Debug\net8.0\ProjetoWagner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\obj\Debug\net8.0\ProjetoWagner.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\obj\Debug\net8.0\ProjetoWagner.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\obj\Debug\net8.0\ProjetoWagner.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\obj\Debug\net8.0\ProjetoWagner.dll
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\obj\Debug\net8.0\refint\ProjetoWagner.dll
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\obj\Debug\net8.0\ProjetoWagner.pdb
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\obj\Debug\net8.0\ProjetoWagner.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Thiago\Univap\Matérias\PVB\Projeto 1bim\ProjetoWagner\ProjetoWagner\obj\Debug\net8.0\ref\ProjetoWagner.dll
